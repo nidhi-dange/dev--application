@@ -31,10 +31,10 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
-					<uri>https://anypoint.mulesoft.com</uri>
+					<uri>https://anypoint.mulesoft.com/</uri>
 					<muleVersion>4.3.0</muleVersion>
 					<username>nidhi_asa</username>
-					<password>nidhi123</password>
+					<password>Nidhi123</password>
 					<environment>Sandbox</environment>
 					<applicationName>dev-test-application</applicationName>
 					
